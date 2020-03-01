@@ -554,7 +554,7 @@ def update_output(club1, club2):
             {'x': np.unique(df[(df['Club'] == club2)]['Position'], return_counts=True)[0], 'y': np.unique(df[(df['Club'] == club2)]['Position'], return_counts=True)[1], 'type': 'bar', 'name': club2},
         ],
         'layout': {
-            'title': 'Position of the Players',
+            'title': 'Player Position',
             'colorway': ['#2BB3B0', '#B277A7']
         }
     }
