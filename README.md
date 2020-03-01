@@ -4,7 +4,10 @@ Coding Challenge by Maxence GS for Quilt.AI where I am using [Dash](https://plot
 
 ## Direct Link
 
-The Dashboard is hosted on a private Debian instance. You can view it online [here](http://51.158.113.67:8050).
+The Dashboard is hosted on a private Debian instance.
+You can view it online [here](http://51.158.113.67:8050).
+(Please check your firewall or Ad-Blocker)
+
 
 ## Installation
 
