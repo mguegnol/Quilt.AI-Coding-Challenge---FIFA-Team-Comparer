@@ -31,3 +31,6 @@ Running the dashboard.py file will automatically  run the application on `127.0.
 ```bash
 $ python dashboard.py
 ```
+
+## Preview
+![Dashboard Preview](Dashboard_Preview.png)
